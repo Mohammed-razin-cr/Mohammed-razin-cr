@@ -1,9 +1,19 @@
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Razin!;" />
-</h1>
+<!--div align="center">
+<!-- <img src="./hello.gif" align="center" style="width: 100%" /> -->
+<!-- </div> <br/> -->
 
+## <div align="center"><h1>I'm Mohammed Razin CR<img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
+</div> 
+<div><p style="font-family: Raleway; font-size: 50px; font-weight: 500;">I'm an undergraduate at <a href="https://sltc.ac.lk/">SLTC</a> studying Information and Communication Engineering. I'm passionate about machine learning and software engineering, and I'm always happy to chat about anything related to these topics!</p></div>
+
+<div align="center">
+<img src="./GradientLine.gif" align="center" style="width: 100%" />
+</div> 
+ 
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <br/>
