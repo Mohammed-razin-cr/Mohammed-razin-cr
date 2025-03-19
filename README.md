@@ -8,7 +8,7 @@
 
 ## <div align="center"><h1>I'm Mohammed Razin CR<img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 </div> 
-<div><p style="font-family: Raleway; font-size: 50px; font-weight: 500;">I'm an postgraduate at <a href="https://sltc.ac.lk/">Bengaluru North University</a>  studying computer applications (MCA) . I'm passionate about frontend development, AI enthusiast, and tech innovator, and I'm always happy to chat about anything related to these topics!</p></div>
+<div><p style="font-family: Raleway; font-size: 50px; font-weight: 500;">I'm an postgraduate student at <a href="https://sltc.ac.lk/">Bengaluru North University</a>  studying MCA . I'm passionate about frontend development, AI enthusiast, and tech innovator, and I'm always happy to chat about anything related to these topics!</p></div>
 
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
